@@ -21,12 +21,12 @@ We implemented experiments for evaluating facial expression classifiers with the
 ### Citation
 If you find this work useful, you can cite it with this BibTex entry:
 
-    @misc{chen2024onlinedetectingllmgeneratedtexts,
-          title={Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting}, 
-          author={Can Chen and Jun-Kun Wang},
-          year={2024},
-          eprint={2410.22318},
-          archivePrefix={arXiv},
-          primaryClass={cs.LG},
-          url={https://arxiv.org/abs/2410.22318}, 
+    @misc{chen2025optimisticinteriorpointmethods,
+      title={Optimistic Interior Point Methods for Sequential Hypothesis Testing by Betting}, 
+      author={Can Chen and Jun-Kun Wang},
+      year={2025},
+      eprint={2502.07774},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.07774}, 
     }
